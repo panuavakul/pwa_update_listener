@@ -1,6 +1,6 @@
 # pwa_update_listener
 
-A Flutter package for checking if the new PWA version is ready.
+A Flutter package for checking if there is a new PWA version, and it is ready to be update.
 
 <img width="645" alt="Screen Shot 2021-08-18 at 22 15 28" src="https://user-images.githubusercontent.com/18391546/129917712-0f2300e4-955f-4077-b0e7-42f41a52b741.png">
 
