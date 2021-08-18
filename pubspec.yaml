@@ -1,5 +1,5 @@
 name: pwa_update_listener
-description: A new Flutter package project.
+description: A library for detecting if a new PWA version is avaiable
 version: 0.0.1
 homepage:
 
