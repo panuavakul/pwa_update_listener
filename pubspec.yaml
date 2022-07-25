@@ -1,6 +1,6 @@
 name: pwa_update_listener
 description: A library for detecting if a new PWA version is avaiable
-version: 0.0.1
+version: 0.1.1
 homepage: https://github.com/panuavakul/pwa_update_listener
 
 environment:
